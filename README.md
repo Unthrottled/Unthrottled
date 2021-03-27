@@ -11,5 +11,5 @@ Questions that keep me up a night:
 - Why is it so hard to get to sleep?! 🤔
 
 <p align="center">
-    <img  style=": right;" src="profile_no_text.svg"/>
+    <img  style=": right;" src="profile_zero_twos.svg"/>
 </p>
