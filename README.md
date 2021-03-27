@@ -1,4 +1,4 @@
-Questions that I try not to keep me up a night:
+Questions that try to keep me up a night:
    
 - What's truly essential and what is not important?
 - Why do I like minimalist art so much? 🎨
