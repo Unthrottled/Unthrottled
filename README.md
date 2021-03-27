@@ -1,2 +1,5 @@
 Some words
-<img align="right" src="profile_124.svg">
+<div>
+some words here
+<img  style="float: right;" src="profile_124.svg"/>
+</div>
