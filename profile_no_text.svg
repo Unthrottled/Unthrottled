@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="600.51mm" height="259.24mm" version="1.1" viewBox="0 0 600.51 259.24" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xhtml="http://www.w3.org/1999/xhtml">
- <style>h3 {
-    font: 13px serif;
-  }
-  div {
-    color: black;
-    white-space: pre;
-    font: 12px serif;
-    height: 100%;
-    overflow: auto;
-    }</style>
  <defs>
   <linearGradient id="linearGradient1469" x1="80.752" x2="71.3" y1="131.69" y2="63.002" gradientUnits="userSpaceOnUse">
    <stop stop-color="#efb8bc" offset="0"/>
@@ -105,20 +95,5 @@
   <path d="m40.052 296.96 5.6725-11.922 0.17955-8.5734c-3.2589-25.904-8.7763-53.692-9.7768-77.713 0.01354-6.8121-0.14676-25.771 12.128-29.874 13.11-4.1943 23.426 3.3514 37.361 19.372-11.427 5.214-10.654 14.651-13.536 20.196-3.0276 0.30251-2.9529 5.3057-2.9367 6.573 0.34267 18.231 2.5703 35.696 5.0749 53.895 1.0173 8.7037 3.824 14.235 0.88293 19.584-1.8128 2.91-2.9023 5.8648-4.197 8.4604z" fill="#f1f1f1"/>
   <path d="m71.665 246.89c0.42639-1.031-1.1195-23.213-2.0298-31.616-3.3017-1.625-20.756-4.9399-32.24 4.5245-0.10643 0.40004 1.4991 18.153 4.2428 30.539 0.01935 0.10922 0.19506 0.24001 0.34656 0.18993 8.2535-4.0746 19.204-5.9592 29.444-3.5784 0.16096 0.0308 0.20774-0.0104 0.23716-0.0584z" fill="#e5c374"/>
  </g>
- <foreignObject class="node" x="46" y="22" width="400" height="300">
-  <xhtml:div>
-   Questions that keep me up a night:
-   
- • What's truly essential and what is not important?
- • Why do I like minimalist art so much? 🎨
- • Will I ever get tired of being a weeb?
- • Can you really have too much of a good thing?
- • When will my gains plateau? 😨
- • How can I bring joy and make others days better?
- • Why I am I learning chinese when I live in
-     the middle of of the US?
- • Will I die if I don't check my email at least once a day?
- • Why is it so hard to get to sleep?! 🤔</xhtml:div>
- </foreignObject>
 </svg>
 
