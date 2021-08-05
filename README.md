@@ -1,3 +1,4 @@
+<img height="350" src="zero_two.svg" align="right"/>
 Questions I ask myself sometimes:
    
 - What's truly essential and what is not important?
@@ -9,6 +10,6 @@ Questions I ask myself sometimes:
 - 我住在中美国，为什么学习汉语吗?
 - Will I die if I don't check my email at least once a day?
 
-<p align="center">
-    <img height="350" src="zero_two.svg"/>
-</p>
+
+
+
