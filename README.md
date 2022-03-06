@@ -20,7 +20,7 @@ __________                 __      ________.__       .__
   <summary>My 3x3</summary>
   <img alt="3x3" src="./3x3.png"/>
   
-  #TeamNino #TeamOnoderNasaki #TeamHimawari
+  #TeamNino #TeamOnoderaNasaki #TeamHimawari
 </details>
 
 
