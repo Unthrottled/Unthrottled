@@ -28,7 +28,6 @@ __________                 __      ________.__       .__
 ---
 
 ```typescript
-
 class Alex extends Weeb implements Hacker, Athlete {
   startWorkingDay() {
     while (shouldContinue()) {
@@ -44,7 +43,7 @@ class Alex extends Weeb implements Hacker, Athlete {
       sleep(this.getDesiredHoursOfSleep());
     }
   }
-  
+
   // TODO: Need to find more hobbies.
   startRestDay() {
     eat(findFood());
@@ -74,12 +73,12 @@ class Alex extends Weeb implements Hacker, Athlete {
 
   private getCurrentWorkout(): Workout {
     switch (getCurrentDay()) {
-      case Days.MONDAY: return Workouts.LEGS;
-      case Days.TUESDAY: return Workouts.PUSH;
-      case Days.WEDNESDAY: return Workouts.PULL;
-      case Days.THURSDAY: return Workouts.SHOULDERS;
-      case Days.FRIDAY: return Workouts.CARDIO;
-      default: return Workouts.RECOVERY;
+      case Days.MONDAY: return Workout.LEGS;
+      case Days.TUESDAY: return Workout.PUSH;
+      case Days.WEDNESDAY: return Workout.PULL;
+      case Days.THURSDAY: return Workout.SHOULDERS;
+      case Days.FRIDAY: return Workout.CARDIO;
+      default: return Workout.RECOVERY;
     }
   }
 
@@ -100,7 +99,4 @@ class Alex extends Weeb implements Hacker, Athlete {
     return isWeekday() ? 7.5 : pickRandomNumberBetween(7, 10);
   }
 }
-
-
-
 ```
