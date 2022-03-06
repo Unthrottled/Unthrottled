@@ -1,15 +1,21 @@
 <img height="350" src="zero_two.svg" align="right"/>
-Questions I ask myself sometimes:
-   
-- What's truly essential and what is not important?
-- Why minimalist art so good?
-- Will I ever get tired of being a weeb?
-- Can you really have too much of a good thing?
-- How long can I keep making gainz?
-- How can I bring joy and make others days better?
-- 我住在中美国，为什么学习汉语吗?
-- Will I die if I don't check my email at least once a day?
 
+<br/>
 
+```
+__________                    ___________                  
+\____    /___________  ____   \__    ___/_  _  ______      
+  /     // __ \_  __ \/  _ \    |    |  \ \/ \/ /  _ \     
+ /     /\  ___/|  | \(  <_> )   |    |   \     (  <_> )    
+/_______ \___  >__|   \____/    |____|    \/\_/ \____/     
+        \/   \/                                            
+__________                 __      ________.__       .__   
+\______   \ ____   _______/  |_   /  _____/|__|______|  |  
+ |    |  _// __ \ /  ___/\   __\ /   \  ___|  \_  __ \  |  
+ |    |   \  ___/ \___ \  |  |   \    \_\  \  ||  | \/  |__
+ |______  /\___  >____  > |__|    \______  /__||__|  |____/
+        \/     \/     \/                 \/                
+```
+<br/>
 
-
+---
