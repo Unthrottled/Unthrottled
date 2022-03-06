@@ -31,11 +31,11 @@ __________                 __      ________.__       .__
 class Alex extends Weeb implements Hacker, Athlete {
   startWorkingDay() {
     while (shouldContinue()) {
-      学习中文(); // todo: look into memory leaks....
+      学习中文(); // todo: look into finding memory leaks....
       const currentProject = this.getCurrentProject();
       continueWorkingOn(currentProject);
       perform(this.getCurrentWorkout());
-      endure(getDayJob());
+      perform(getDayJob());
       perform(getWalkingRoute());
       continueWorkingOn(currentProject);
       watch(this.pickAnime());
@@ -47,16 +47,21 @@ class Alex extends Weeb implements Hacker, Athlete {
   // TODO: Need to find more hobbies.
   startRestDay() {
     eat(findFood());
-    watch(this.pickAnime());
+    const animeForTheDay = this.pickAnime();
+    watch(animeForTheDay);
     watch(getWalkingRoute())
-    watch(this.pickAnime());
+    watch(animeForTheDay);
     sleep(this.getDesiredHoursOfSleep());
   }
 
   private favoriteLanguages = ['TypeScript', 'Kotlin'];
   private getCurrentProject(): Project {
     const buggyProjects = getMaintainedOSSProjects()
-      .filter(project => project.hasReportedBug());
+      .filter(project => 
+          project.reportedBugs()
+            .filter(bug => !isFeature(bug))
+            .some(bug => doICareEnoughToFix(bug))
+      );
     if(!!buggyProjects.length) {
       return new BugFixProject(buggyProjects);
     } else if(!this.hasEnoughAnimeGirlThemes()) {
