@@ -31,7 +31,7 @@ __________                 __      ________.__       .__
 class Alex extends Weeb implements Hacker, Athlete {
   startWorkingDay() {
     while (shouldContinue()) {
-      学习中文(); // todo: look into finding memory leaks....
+      学习中文(); // TODO: look into finding where memory leaks are....
       const currentProject = this.getCurrentProject();
       continueWorkingOn(currentProject);
       perform(this.getCurrentWorkout());
@@ -44,14 +44,14 @@ class Alex extends Weeb implements Hacker, Athlete {
     }
   }
 
-  // TODO: Need to find more hobbies.
   startRestDay() {
     eat(findFood());
     const animeForTheDay = this.pickAnime();
     watch(animeForTheDay);
-    watch(getWalkingRoute())
+    perform(getWalkingRoute())
     watch(animeForTheDay);
     sleep(this.getDesiredHoursOfSleep());
+    // TODO: Need to find more hobbies.
   }
 
   private favoriteLanguages = ['TypeScript', 'Kotlin'];
