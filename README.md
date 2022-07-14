@@ -1,7 +1,10 @@
-<img height="350" src="zero_two.svg" align="right"/>
+<img src="https://doki.assets.unthrottled.io/misc/best_girl.png" />
 
 <br/>
 
+<details>
+  <summary>Facts</summary>
+  
 ```
 __________                    ___________                  
 \____    /___________  ____   \__    ___/_  _  ______      
@@ -16,6 +19,9 @@ __________                 __      ________.__       .__
  |______  /\___  >____  > |__|    \______  /__||__|  |____/
         \/     \/     \/                 \/                
 ```
+</details>
+
+
 <details>
   <summary>My 3x3</summary>
   <img alt="3x3" src="./3x3.png"/>
@@ -23,11 +29,10 @@ __________                 __      ________.__       .__
   #TeamNino #TeamOnoderaNasaki #TeamHimawari
 </details>
 
-
-
----
-
-```typescript
+<details>
+  <summary>Bio.ts</summary>
+ 
+ ```typescript
 class Alex extends Weeb implements Hacker, Athlete {
   startWorkingDay() {
     while (shouldContinue()) {
@@ -105,3 +110,9 @@ class Alex extends Weeb implements Hacker, Athlete {
   }
 }
 ```
+
+ 
+</details>
+
+
+
